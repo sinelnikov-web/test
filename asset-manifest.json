@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "/static/js/main.9cfe2ec9.chunk.js",
-    "main.js.map": "/static/js/main.9cfe2ec9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8233b8b5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8233b8b5.js.map",
-    "static/js/2.1d20f5e7.chunk.js": "/static/js/2.1d20f5e7.chunk.js",
-    "static/js/2.1d20f5e7.chunk.js.map": "/static/js/2.1d20f5e7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.1d20f5e7.chunk.js.LICENSE.txt": "/static/js/2.1d20f5e7.chunk.js.LICENSE.txt",
-    "static/media/desktop_bg.6b9eb264.jpg": "/static/media/desktop_bg.6b9eb264.jpg",
-    "static/media/empty_folder.5ccf3200.png": "/static/media/empty_folder.5ccf3200.png",
-    "static/media/image.c152827d.jpg": "/static/media/image.c152827d.jpg",
-    "static/media/up_arrow.d0aeab6f.svg": "/static/media/up_arrow.d0aeab6f.svg",
-    "static/media/volume_icon.91bb2958.svg": "/static/media/volume_icon.91bb2958.svg",
-    "static/media/welcome_bg.d7c60495.jpg": "/static/media/welcome_bg.d7c60495.jpg",
-    "static/media/windows_search.8242740b.svg": "/static/media/windows_search.8242740b.svg",
-    "static/media/windows_startup.3e3490c0.svg": "/static/media/windows_startup.3e3490c0.svg",
-    "static/media/word.055a2ea2.png": "/static/media/word.055a2ea2.png"
+    "main.js": "/test/static/js/main.9cfe2ec9.chunk.js",
+    "main.js.map": "/test/static/js/main.9cfe2ec9.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.8a40162f.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.8a40162f.js.map",
+    "static/js/2.f0e5b4d7.chunk.js": "/test/static/js/2.f0e5b4d7.chunk.js",
+    "static/js/2.f0e5b4d7.chunk.js.map": "/test/static/js/2.f0e5b4d7.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/js/2.f0e5b4d7.chunk.js.LICENSE.txt": "/test/static/js/2.f0e5b4d7.chunk.js.LICENSE.txt",
+    "static/media/desktop_bg.6b9eb264.jpg": "/test/static/media/desktop_bg.6b9eb264.jpg",
+    "static/media/empty_folder.5ccf3200.png": "/test/static/media/empty_folder.5ccf3200.png",
+    "static/media/image.c152827d.jpg": "/test/static/media/image.c152827d.jpg",
+    "static/media/up_arrow.d0aeab6f.svg": "/test/static/media/up_arrow.d0aeab6f.svg",
+    "static/media/volume_icon.91bb2958.svg": "/test/static/media/volume_icon.91bb2958.svg",
+    "static/media/welcome_bg.d7c60495.jpg": "/test/static/media/welcome_bg.d7c60495.jpg",
+    "static/media/windows_search.8242740b.svg": "/test/static/media/windows_search.8242740b.svg",
+    "static/media/windows_startup.3e3490c0.svg": "/test/static/media/windows_startup.3e3490c0.svg",
+    "static/media/word.055a2ea2.png": "/test/static/media/word.055a2ea2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8233b8b5.js",
-    "static/js/2.1d20f5e7.chunk.js",
+    "static/js/runtime-main.8a40162f.js",
+    "static/js/2.f0e5b4d7.chunk.js",
     "static/js/main.9cfe2ec9.chunk.js"
   ]
 }
