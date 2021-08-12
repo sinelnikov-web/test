@@ -16,13 +16,32 @@
         box_html = `<div id="pocket-converter">
                         <a href="#" id="close-converter">&times;</a>
                         <h1>Pocket Converter</h1>
-                        <div class="converter">
-                        
+                        <div id="converter">
+                            <div class="converter__field">
+                                <input type="text" class="converter__input">
+                                <select name="converter__select" id="select1">
+                                    <option selected value="RUB">RUB</option>
+                                    <option value="RUB">KZT</option>
+                                    <option value="RUB">EUR</option>
+                                    <option value="RUB">USD</option>
+                                    <option value="RUB">UAH</option>
+                                </select>
+                            </div>
+                            <div class="converter__field">
+                                <input type="text" class="converter__input">
+                                <select name="converter__select" id="select1">
+                                    <option value="RUB">RUB</option>
+                                    <option value="RUB">KZT</option>
+                                    <option value="RUB">EUR</option>
+                                    <option selected value="RUB">USD</option>
+                                    <option value="RUB">UAH</option>
+                                </select>
+                            </div>
                         </div>
                     </div>`;
         jQuery('body').append(box_html);
-        jQuery('#bookmarklet#close').click(function () {
-            jQuery('#bookmarklet').remove();
+        jQuery('#pocket-converter #close-converter').click(function () {
+            jQuery('#pocket-converter').remove();
         });
     }
 
