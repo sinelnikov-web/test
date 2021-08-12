@@ -3,6 +3,6 @@
         pocketConverter();
     } else {
         document.body.appendChild(document.createElement('script'))
-            .src = 'D:\\frontend\\webinar\\converter_plugin\\pocket-converter.js';
+            .src = 'https://sinelnikov-web.github.io/test/pocket-converter.js?r=' + Math.floor(Math.random()*99999999999999999999);
     }
 })();
