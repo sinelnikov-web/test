@@ -9,7 +9,7 @@
 
     }
     // Проверка, подключена ли jQuery.
-    if(typeofwindow.jQuery !== 'undefined') {
+    if(typeof window.jQuery !== 'undefined') {
         pocketConverter();
     } else {
         let conflict = typeof window.$ !== 'undefined';
