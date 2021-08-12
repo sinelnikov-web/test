@@ -6,15 +6,15 @@
     let min_height = 100;
 
     function pocketConverter(msg) {
-        let css = jQuery('<link>');
-        css.attr({
-            rel: 'stylesheet',
-            type: 'text/css',
-            href: 'https://sinelnikov-web.github.io/test/pocket-converter.css'
-        });
-        jQuery('head').append(css);
+        // let css = jQuery('<link>');
+        // css.attr({
+        //     rel: 'stylesheet',
+        //     type: 'text/css',
+        //     href: 'https://sinelnikov-web.github.io/test/pocket-converter.css'
+        // });
+        // jQuery('head').append(css);
         box_html = `<div id="pocket-converter">
-                        <a href="#"id="close">&times;</a>
+                        <a href="#" id="close-converter">&times;</a>
                         <h1>Pocket Converter</h1>
                         <div class="converter">
                         
